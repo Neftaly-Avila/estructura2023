@@ -3,4 +3,7 @@
 
 
 
-Console.WriteLine("hola, mundo¡");
+Console.WriteLine("este es el curso de estructura de datos");
+
+
+Console.WriteLine("UNSCH 2024");

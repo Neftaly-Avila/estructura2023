@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Nitro 5\Desktop\laboratorio.tarea.2" Link="laboratorio.tarea.2" />
+  </ItemGroup>
+
 </Project>
